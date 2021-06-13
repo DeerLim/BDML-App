@@ -1,5 +1,4 @@
-# BDML-App
-Team project
+# BDML-App  Team project
 
 #ConcreteData_H fold contains code, pre-processed data for analysis and expriment results for Concrete dataset.
 Used method is HDSSL corresponding to the given paper.
