@@ -12,3 +12,6 @@ Predicted variable is categorical type, and the reconstructed difference is quit
 #WDBCData_V fold contains code, raw data for analysis and expriment results for WDBC dataset.
 Used method is VDSSL corresponding to the given paper.
 predicted variable is categorical type, and the reconstructed differnce is quite big and which is even bigger than HDSSL method.
+
+The code is compiled using python.
+.ipynb files and .py files contains same code.
