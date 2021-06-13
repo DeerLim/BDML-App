@@ -1,5 +1,7 @@
 # BDML-App  Team project
 
+Team menbers: 이동현, 임성, 박영준
+
 #ConcreteData_H fold contains code, pre-processed data for analysis and expriment results for Concrete dataset.
 Used method is HDSSL corresponding to the given paper.
 Predicted variable is numerical type, and the reconstructed difference is a little big.
